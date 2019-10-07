@@ -5,7 +5,7 @@ Module.register("email",{
     //             user: 'steven.pouilly@gmail.com',
     //             password: 'auth3ntik',
     //             host: 'smtp.gmail.com',
-    //             port: 465,
+    //             port: 587,
     //             tls: true,
     //             numberOfEmails: 5,
     //             fade: false,
