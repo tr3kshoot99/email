@@ -9,7 +9,7 @@ Module.register("email",{
     //             tls: true,
     //             numberOfEmails: 5,
     //             fade: true,
-    //             maxCharacters: 30
+    //             max
     //         }
     //     ]
     payload: [],
