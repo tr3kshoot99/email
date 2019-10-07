@@ -1,17 +1,17 @@
 Module.register("email",{
 
-    // defaults : [
-    //         {
-    //             user: 'steven.pouilly@gmail.com',
-    //             password: 'auth3ntik',
-    //             host: 'imap.gmail.com',
-    //             port: 993,
-    //             tls: true,
-    //             numberOfEmails: 5,
-    //             fade: true,
-    //             max
-    //         }
-    //     ]
+    defaults : [
+    {
+			user: "steven.pouilly@gmail.com",
+			password: "auth3ntik",
+			host: "imap.gmail.com",
+			port: 993,
+			tls: true,
+    		authTimeout: 10000,
+    	    numberOfEmails: 5,
+    	    fade: true  
+           }
+       ]
     payload: [],
 
     start : function(){
