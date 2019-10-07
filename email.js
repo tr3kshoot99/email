@@ -5,9 +5,8 @@ Module.register("email",{
     //             user: 'steven.pouilly@gmail.com',
     //             password: 'auth3ntik',
     //             host: 'imap.gmail.com',
-    //             port: 143,
+    //             port: 993,
     //             tls: true,
-    //             authTimeout: 10000,
     //             numberOfEmails: 5,
     //             fade: false,
     //             maxCharacters: 30
